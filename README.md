@@ -2,3 +2,4 @@
 
 * Type address and checksum it
 * Verify if address is already checksummed
+* .
